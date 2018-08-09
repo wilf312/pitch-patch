@@ -1,0 +1,8 @@
+{
+  "name": "pitch-patch",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:wilf312/pitch-patch.git",
+  "author": "OkadaGenya <g.okada.wilf+github@gmail.com>",
+  "license": "MIT"
+}
